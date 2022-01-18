@@ -9,7 +9,6 @@ Daktilo(text(string))
 
 `go run main.go`
 
-##### Note: 
-If you don't enter any parameter for milliseconds, the default value inside the function is used.
+##### Note: If you don't enter any parameter for milliseconds, the default value inside the function is used.
 
 ![alt text](demo.gif)
